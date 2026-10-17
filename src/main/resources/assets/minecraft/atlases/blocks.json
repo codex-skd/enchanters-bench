@@ -1,0 +1,10 @@
+{
+  "sources": [
+    { "type": "minecraft:single", "resource": "enchanters_bench:entity/bench_book" },
+    { "type": "minecraft:single", "resource": "enchanters_bench:entity/metal_book" },
+    { "type": "minecraft:single", "resource": "enchanters_bench:entity/nether_book" },
+    { "type": "minecraft:single", "resource": "enchanters_bench:entity/prismarine_book" },
+    { "type": "minecraft:single", "resource": "enchanters_bench:entity/tartarite_book" },
+    { "type": "minecraft:single", "resource": "enchanters_bench:entity/white_book" }
+  ]
+}

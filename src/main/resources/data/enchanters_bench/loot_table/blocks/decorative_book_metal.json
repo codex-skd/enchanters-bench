@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:dynamic",
+                    "name": "minecraft:contents"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "enchanters_bench:decorative_book_metal"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:any_of",
+                    "terms": [
+                        { "condition": "minecraft:block_state_property", "block": "enchanters_bench:decorative_book", "properties": { "variant": "metal" } }
+                    ]
+                },
+                { "condition": "minecraft:survives_explosion" }
+            ]
+        }
+    ]
+}

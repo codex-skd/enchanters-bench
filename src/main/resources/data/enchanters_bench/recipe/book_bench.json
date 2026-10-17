@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ " g ", "gbg", " g " ],
+    "key": {
+        "g": { "item": "minecraft:glowstone_dust" },
+        "b": { "item": "minecraft:enchanted_book" }
+    },
+    "result": { "id": "enchanters_bench:decorative_book_bench", "count": 1 }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ " g ", "gbg", " g " ],
+    "key": {
+        "g": { "item": "minecraft:prismarine_shard" },
+        "b": { "item": "minecraft:enchanted_book" }
+    },
+    "result": { "id": "enchanters_bench:decorative_book_prismarine", "count": 1 }
+}

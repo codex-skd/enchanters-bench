@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "variant=bench":     { "model": "enchanters_bench:block/decoration" },
+        "variant=vanilla":   { "model": "enchanters_bench:block/decoration" },
+        "variant=prismarine":{ "model": "enchanters_bench:block/decoration" },
+        "variant=nether":    { "model": "enchanters_bench:block/decoration" },
+        "variant=tartarite": { "model": "enchanters_bench:block/decoration" },
+        "variant=white":     { "model": "enchanters_bench:block/decoration" },
+        "variant=metal":     { "model": "enchanters_bench:block/decoration" }
+    }
+}

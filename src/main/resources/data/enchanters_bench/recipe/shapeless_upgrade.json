@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "minecraft:enchanting_table" },
+        { "item": "enchanters_bench:table_upgrade" }
+    ],
+    "result": { "id": "enchanters_bench:advanced_table", "count": 1 }
+}

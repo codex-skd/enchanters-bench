@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ " g ", "gbg", " g " ],
+    "key": {
+        "g": { "item": "minecraft:nether_brick" },
+        "b": { "item": "minecraft:enchanted_book" }
+    },
+    "result": { "id": "enchanters_bench:decorative_book_nether", "count": 1 }
+}

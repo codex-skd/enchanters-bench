@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+displayURL="https://gitlab.com/stalking-dragons/minecraft/enchanters-bench"
+logoFile="icon.png"
+credits="Port of Enchanting Plus (LGPL-3.0) by Darkhax, lclc98, Xkyouchoux, odininon, GnRSlash and contributors. Port by Stalking Dragons."
+authors="Stalking Dragons; original Enchanting Plus by Darkhax, lclc98, Xkyouchoux, odininon, GnRSlash"
+description='''An advanced enchanting table that lets you choose exactly which enchantments, and at what level, go on your item. A NeoForge 1.21.1 port of Enchanting Plus.'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

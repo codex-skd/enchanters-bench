@@ -1,0 +1,16 @@
+Enchanter's Bench
+=================
+
+Enchanter's Bench is a port of Enchanting Plus (Minecraft 1.12.2, version 5.0.x) to NeoForge 1.21.1.
+Licensed under the GNU Lesser General Public License v3.0 or later (see LICENSE and COPYING).
+
+Original work
+-------------
+Enchanting Plus - https://www.curseforge.com/minecraft/mc-mods/enchanting-plus
+Authors: lclc98, Xkyouchoux, odininon, GnRSlash. Maintainer: Darkhax.
+Contributors: Jaredlll08, Shadows-of-Fire. Translators: Adaptivity, Killerpommes.
+
+Notes
+-----
+- Vanilla Minecraft textures are not redistributed; the mod references the game's own assets.
+- Original custom textures (decorative books, table upgrade, GUI) remain credited to the original authors.

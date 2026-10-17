@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "gbg", "o o", "geg" ],
+    "key": {
+        "g": { "item": "minecraft:gold_ingot" },
+        "b": { "item": "minecraft:writable_book" },
+        "o": { "item": "minecraft:obsidian" },
+        "e": { "item": "minecraft:ender_eye" }
+    },
+    "result": { "id": "enchanters_bench:table_upgrade", "count": 1 }
+}

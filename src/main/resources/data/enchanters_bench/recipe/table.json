@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "gbg", "oto", "geg" ],
+    "key": {
+        "g": { "item": "minecraft:gold_ingot" },
+        "b": { "item": "minecraft:writable_book" },
+        "o": { "item": "minecraft:obsidian" },
+        "e": { "item": "minecraft:ender_eye" },
+        "t": { "item": "minecraft:enchanting_table" }
+    },
+    "result": { "id": "enchanters_bench:advanced_table", "count": 1 }
+}
